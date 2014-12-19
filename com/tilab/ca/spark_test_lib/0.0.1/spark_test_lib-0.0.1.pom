@@ -47,13 +47,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	
-	
-	<distributionManagement>
-	<repository>
-	  <id>internal.repo</id>
-	  <name>Temporary Testing Repository</name>
-	  <url>file://D:\sda-fi-maven-repo</url>
-	</repository>
-	</distributionManagement>
 </project>
